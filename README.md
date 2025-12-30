@@ -48,6 +48,4 @@ The coding in this project covers several key concepts in data analysis and visu
 * **Python** – Main programming language.
 * **Pandas** – Data manipulation and cleaning.
 * **Matplotlib / Seaborn** – For creating bar graphs, histograms, and pie charts.
-* **Scikit-learn (Optional)** – For regression analysis and predictions.
-
-Do you want me to do that?
+* **Scikit-learn (Optional)** – For regression analysis and predictions
